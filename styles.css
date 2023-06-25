@@ -1,0 +1,89 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #333333;
+   
+}
+
+
+html {
+    margin: 20px 0;
+    
+}
+
+main {
+    background-color: #EEEEEE;
+    width: 100%;
+    padding: auto;
+    color: #333333;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 25px;
+    padding-bottom: 0;
+    margin: 0;
+   
+    
+}
+
+#header>p {
+    text-align:center;
+   padding: 5px;       
+}
+
+figure {
+    display: block;
+    background-color: white;
+    margin: auto;
+    padding-bottom: 25px;
+    width: 98%;
+    text-align: center;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 5px;
+
+}
+
+/*muda disposição do texto
+da timeline */ 
+#tribute-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+#tribute-info > h2 {
+    text-align: center;
+}
+
+#tribute-info > ul > li  {
+    padding-bottom: 20px;
+    margin-left: 25px;
+}
+
+#tribute-info > .citacion {
+    margin-right: 150px;
+}
+
+.strong {
+    font-size: 18px;
+}
+a {
+    color: #8B638F
+}
+
+
+   
+
+
