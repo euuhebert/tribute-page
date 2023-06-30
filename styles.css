@@ -6,7 +6,7 @@
 
 
 html {
-    margin: 20px 0;
+    margin: 1.25rem 0;
     
 }
 
@@ -21,8 +21,8 @@ main {
 
 h1 {
     text-align: center;
-    font-size: 50px;
-    padding-top: 25px;
+    font-size: 3.125rem;
+    padding-top: 1.5625rem;
     padding-bottom: 0;
     margin: 0;
    
@@ -31,14 +31,14 @@ h1 {
 
 #header>p {
     text-align:center;
-   padding: 5px;       
+   padding: 0.3125rem;       
 }
 
 figure {
     display: block;
     background-color: white;
     margin: auto;
-    padding-bottom: 25px;
+    padding-bottom: 1.5625rem;
     width: 98%;
     text-align: center;
 }
@@ -49,7 +49,7 @@ figure {
     margin-right: auto;
     max-width: 100%;
     height: auto;
-    padding-bottom: 5px;
+    padding-bottom: 0.3125rem;
 
 }
 
@@ -68,16 +68,16 @@ da timeline */
 }
 
 #tribute-info > ul > li  {
-    padding-bottom: 20px;
-    margin-left: 25px;
+    padding-bottom: 1.25rem;
+    margin-left: 1.5625rem;
 }
 
 #tribute-info > .citacion {
-    margin-right: 150px;
+    margin-right: 9.375rem;
 }
 
 .strong {
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 a {
     color: #8B638F
